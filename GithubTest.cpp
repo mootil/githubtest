@@ -8,7 +8,7 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "This is test for Github!\n";
-    cout << "commit1";
+    cout << "Fixed";
 }
 
 // This is a code for github test.
